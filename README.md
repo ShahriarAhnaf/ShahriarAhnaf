@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ShahriarAhnaf
-- 👀 I’m interested in open source projects in embedded software, automation, and accelerators 0_0
-- I’m looking to collaborate on any projects with AI and Embedded software.
-- 📫 How to reach me -> [email](mailto:shahriarahnaf007@gmail.com)
+- 👋 Hi, I’m @ShahriarAhnaf, CTO and Co-founder of Simantic ( YC Fall 2026 ) 
+- I’m interested in open source projects in embedded software with IOT as a focus.
+- If you are interested in simulating your firmware project fully with Simantic, Please reach out(founders@simantic.dev)!
 
 
 <!---
